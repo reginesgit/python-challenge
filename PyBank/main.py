@@ -4,7 +4,7 @@ import os
 import csv
 
 # PyBank\Resources\budget_data.csv
-filepath = os.path.join('PyBank', 'Resources', 'budget_data.csv').replace("\\","/")
+filepath = os.path.join('..', 'Resources', 'budget_data.csv').replace("\\","/")
 
 with open(filepath) as csvfile:
 
