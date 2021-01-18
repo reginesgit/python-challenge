@@ -1,0 +1,34 @@
+Regine Strey
+Sources for Python Homework submitted 1/18/2021:
+
+PyBank file main.py:
+
+Calculate the sum of elements in a list in python:
+https://medium.com/programminginpython-com/python-program-to-calculate-the-sum-of-elements-in-a-list-ed2b80db8268
+
+Create an autonomous copy of a list:
+https://www.programiz.com/python-programming/methods/list/copy
+
+Subtract two lists:
+https://www.kite.com/python/answers/how-to-subtract-two-lists-in-python
+
+Find maximum and minimum in a list:
+https://howtodoinjava.com/python/examples/max-min/
+
+Create a dictionary from two lists:
+https://www.kite.com/python/answers/how-to-create-a-dictionary-from-two-lists-in-python
+
+Retrieve value for key in dictionary:
+https://www.tutorialspoint.com/python/dictionary_get.htm
+
+
+PyPoll file main.py:
+
+Get unique values from a list:
+https://www.geeksforgeeks.org/python-get-unique-values-list/
+
+If statement nested in for loop:
+https://data36.com/python-nested-loops-if-statements-combined-data-sciene/
+
+Using decimal import for exact precision:
+https://docs.python.org/3/library/decimal.html
