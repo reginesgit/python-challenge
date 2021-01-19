@@ -75,7 +75,6 @@ with open(filepath, newline='') as csvfile:
 
     with open(output_file, "w") as datafile:
         writer = csv.writer(datafile)
-        # TODO: get rid of line breaks?
         writer.writerow(["Financial Analysis"])
         writer.writerow(["---------------------------"])
         writer.writerow([f"Total Months: {nr_entries - 1}"])
